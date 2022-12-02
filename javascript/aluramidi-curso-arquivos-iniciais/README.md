@@ -4,8 +4,6 @@
 
 Este projeto apresenta uma série de butões com sons de bateria. Desenvolvido no curso da Alura para praticas boas práticas com o Javascript
 
-[Clique aqui para acessar]https://vinidevit.github.io/TecladoBateria/)
-
 # Tecnologias
 
 > HTML
